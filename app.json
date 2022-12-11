@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "QuickCash",
+    "slug": "QuickCash",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/AppIcon.png",
+    "splash": {
+      "image": "./assets/AppSplash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/AppIcon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.salmankhanchanna.QuickCash"
+    },
+    "web": {
+      "favicon": "./assets/AppFavicon.png"
+    },
+    "description": ""
+  }
+}
